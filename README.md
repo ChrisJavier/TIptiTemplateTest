@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Comprehensive approach to django-rest-swagger 2 using both FBV and CBV
 ![main-demo](https://i.imgur.com/GgHxcHt.gif)
 
@@ -635,3 +636,7 @@ using `django-rest-swagger 2`. If you like this effort, please like and share th
 If you have any suggestions, comment here or approach me on [linkedin](https://www.linkedin.com/in/m-haziq/) , [medium](https://medium.com/@m_haziq/), [twitter](https://twitter.com/contacthaziq) 
 or send me an [email](mailto:m_haziq@outlook.com) to discuss in person. 
 I would love to hear from you.
+=======
+# TIptiTemplateTest
+This is a job for changing
+>>>>>>> b249226bf7e2fa993a677834efa9ddffe769c9b0
